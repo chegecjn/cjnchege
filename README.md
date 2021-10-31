@@ -4,7 +4,7 @@
 <p align="center">
   <samp>
 I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source Enthusiast from Berlin (Germany).
-    I am Oussama Bouchikhi from Algeria, I'm a computer science student a full stack web developer and an open source enthusiast. I like programming , design, photography and I always want to learn new things.
+I am Oussama Bouchikhi from Algeria, I'm a computer science student a full stack web developer and an open source enthusiast. I like programming , design, photography and I always want to learn new things.
   </samp>
   <br/>
 </p>
