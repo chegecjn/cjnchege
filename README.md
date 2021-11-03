@@ -3,8 +3,8 @@
 
 <p align="center">
   <samp>
-I'm Danny Koppenhagen. A Web Developer, Consultant, Author and and Open Source Enthusiast from Berlin (Germany).
-I am Oussama Bouchikhi from Algeria, I'm a computer science student a full stack web developer and an open source enthusiast. I like programming , design, photography and I always want to learn new things.
+Hi there, I am Chege.
+I am a software engineer who helps clients build scalable native apps on AWS and Azure Cloud Platforms. I have a specialty in Python, JavaScript & Linux. I am a certified AWS & Azure DevOps Engineer.
   </samp>
   <br/>
 </p>
